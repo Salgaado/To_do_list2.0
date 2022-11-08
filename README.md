@@ -1,1 +1,2 @@
-# To_do_list2.0
+# To-Do-List
+Um simples to-do list app para provar meus conhecimentos que aprendi estudando JS! 
